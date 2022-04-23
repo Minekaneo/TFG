@@ -10,9 +10,8 @@ Final degree project for the Bachelor's Degree in Computer Science of the [Unive
     1. Specify the number of devices used
     2. Specify the Serial ports of each device
 4. Start training the devices using the buttons.
-    * xxxx
-    * xxxx
-    * xxxx
+    * First button takes a photo
+    * Second button changes between modes (1,2,3 for training each class and 4 for predictions)
 5. Every 10 seconds there will be a FL iteration to merge the trained models.
 
 ## Authors
